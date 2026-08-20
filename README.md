@@ -1100,8 +1100,11 @@ Containerization
 +
 GPU Deployment
 ```
+### Connect with me
 
-GitHub: [@morsycoo](https://github.com/morsycoo)
+- GitHub: https://github.com/morsycoo
+- LinkedIn: https://linkedin.com/in/mahmudmursi
+- Kaggle: https://kaggle.com/mahmoudmorsy
 
 ---
 
