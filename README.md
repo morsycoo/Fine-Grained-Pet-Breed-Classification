@@ -171,10 +171,6 @@ EfficientNet-B0 :  4.05M
 
 That combination of **accuracy + Macro F1 + parameter efficiency** is the main reason EfficientNet-B0 was selected as the final production model.
 
-![Model Comparison](assets/model_comparison.png)
-
-![Parameter Comparison](assets/parameter_comparison.png)
-
 ---
 
 # 🧭 End-to-End Workflow
@@ -253,7 +249,7 @@ Instead of filling the notebook with every intermediate experiment and repeated 
 
 The CNN stage was not a single architecture change.
 
-```text
+```
 Improved CNN v4
       │
       ├── Parameter Update Checks
@@ -267,7 +263,7 @@ Improved CNN v4
       ├── Class Imbalance Experiment
       │
       └── Controlled CNN Comparison
----
+```
 
 # 🔬 Transfer Learning
 
@@ -457,22 +453,22 @@ J --> K["JSON Response"]
 Training / Research
         │
         ▼
-Notebook
+    Notebook
         │
         ▼
-Best Checkpoint
+ Best Checkpoint
         │
         ▼
 Production Inference
         │
         ▼
-FastAPI
+     FastAPI
         │
         ▼
-Docker
+      Docker
         │
         ▼
-NVIDIA GPU
+   NVIDIA GPU
 ```
 
 ---
@@ -810,21 +806,21 @@ The notebook intentionally preserves the **reasoning behind the final model**, n
 The production inference pipeline mirrors the final model's expected input representation.
 
 ```text
-Uploaded Image
+ Uploaded Image
       ↓
 PIL Image Validation
       ↓
-RGB Conversion
+ RGB Conversion
       ↓
 Resize 224 × 224
       ↓
-ToTensor
+   ToTensor
       ↓
 ImageNet Normalization
       ↓
 Batch Dimension
       ↓
-CUDA
+     CUDA
       ↓
 EfficientNet-B0
 ```
@@ -1124,14 +1120,7 @@ That is the difference between a notebook experiment and an **end-to-end AI syst
 **Fine-Grained Pet Breed Classification**
 
 ### EfficientNet-B0 · 90.46% Test Accuracy · 0.9021 Macro F1
+This investigation eventually led to the **Improved CNN v4** configuration.
 
 </div>
 
-
-
-
-
-
-
-
-This investigation eventually led to the **Improved CNN v4** configuration.
