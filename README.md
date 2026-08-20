@@ -932,7 +932,7 @@ The service returned HTTP `200` for the prediction request.
 ## 1. Clone
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/morsycoo/Fine-Grained-Pet-Breed-Classification
 cd "Fine-Grained Pet Breed Classification"
 ```
 
