@@ -21,8 +21,6 @@
 
 <br>
 
-![Uploading ChatGPT Image Aug 22, 2026, 10_57_32 AM.png…]()
-
 ### 🏆 Final Model
 
 **EfficientNet-B0 · 90.46% Test Accuracy · 0.9021 Macro F1 · 4.05M Parameters**
