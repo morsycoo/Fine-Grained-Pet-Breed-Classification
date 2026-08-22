@@ -21,7 +21,9 @@
 
 <br>
 
-![Fine-Grained Pet Breed Classification](assets/fine-grained-pet-breed-classification.png)
+<p align="center">
+  <img src="assets/fine-grained-pet-breed-classification.png" alt="Fine-Grained Pet Breed Classification" width="100%">
+</p>
 
 ### 🏆 Final Model
 
