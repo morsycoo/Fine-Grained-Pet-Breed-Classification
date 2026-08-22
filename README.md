@@ -21,6 +21,8 @@
 
 <br>
 
+![Fine-Grained Pet Breed Classification](assets/fine-grained-pet-breed-classification.png)
+
 ### 🏆 Final Model
 
 **EfficientNet-B0 · 90.46% Test Accuracy · 0.9021 Macro F1 · 4.05M Parameters**
