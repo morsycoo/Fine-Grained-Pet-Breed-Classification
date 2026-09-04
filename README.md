@@ -6,6 +6,14 @@
 
 **37-breed cat & dog image classification — from dataset analysis and custom CNN research to transfer learning, explainability, FastAPI, Docker, and GPU-accelerated production inference.**
 
+<p align="center">
+  <img
+    src="assets/fine-grained-pet-breed-classification.png"
+    alt="Fine-Grained Pet Breed Classification"
+    width="100%"
+  />
+</p>
+
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,14 +28,6 @@
 ![Status](https://img.shields.io/badge/Status-Production_Inference-success?style=for-the-badge)
 
 <br>
-
-<p align="center">
-  <img
-    src="assets/fine-grained-pet-breed-classification.png"
-    alt="Fine-Grained Pet Breed Classification"
-    width="100%"
-  />
-</p>
 
 ### 🏆 Final Model
 
