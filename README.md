@@ -5,7 +5,6 @@
 ### End-to-End Computer Vision & Deep Learning Engineering Project
 
 **37-breed cat & dog image classification — from dataset analysis and custom CNN research to transfer learning, explainability, FastAPI, Docker, and GPU-accelerated production inference.**
-
 <p align="center">
   <img
     src="assets/fine-grained-pet-breed-classification.png"
@@ -13,7 +12,6 @@
     width="100%"
   />
 </p>
-
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,7 +26,6 @@
 ![Status](https://img.shields.io/badge/Status-Production_Inference-success?style=for-the-badge)
 
 <br>
-
 ### 🏆 Final Model
 
 **EfficientNet-B0 · 90.46% Test Accuracy · 0.9021 Macro F1 · 4.05M Parameters**
