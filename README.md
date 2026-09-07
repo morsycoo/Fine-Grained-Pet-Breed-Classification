@@ -1,5 +1,4 @@
 <div align="center">
-
 # 🐾 Fine-Grained Pet Breed Classification
 
 ### End-to-End Computer Vision & Deep Learning Engineering Project
@@ -24,13 +23,10 @@
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-Deep_Learning-8A2BE2?style=for-the-badge)
 ![EfficientNet](https://img.shields.io/badge/Final_Model-EfficientNet--B0-FF6F00?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Production_Inference-success?style=for-the-badge)
-
 <br>
 
 ### 🏆 Final Model
-
 **EfficientNet-B0 · 90.46% Test Accuracy · 0.9021 Macro F1 · 4.05M Parameters**
-
 </div>
 
 ---
