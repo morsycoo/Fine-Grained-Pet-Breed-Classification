@@ -1,4 +1,5 @@
 <div align="center">
+  
 # 🐾 Fine-Grained Pet Breed Classification
 
 ### End-to-End Computer Vision & Deep Learning Engineering Project
@@ -19,7 +20,6 @@
 ![CUDA](https://img.shields.io/badge/CUDA-13.0-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Production_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-GPU_Container-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-Deep_Learning-8A2BE2?style=for-the-badge)
 ![EfficientNet](https://img.shields.io/badge/Final_Model-EfficientNet--B0-FF6F00?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Production_Inference-success?style=for-the-badge)
