@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🐾 Fine-Grained Pet Breed Classification
+# 🐾 Fine Grained Pet Breed Classification
 
 ### End-to-End Computer Vision & Deep Learning Engineering Project
 
