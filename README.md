@@ -1105,7 +1105,7 @@ GPU Deployment
 ### Connect with me
 
 - GitHub: https://github.com/morsycoo
-- LinkedIn: https://linkedin.com/in/mahmudmursi
+- LinkedIn: https://www.linkedin.com/in/morsycoo
 - Kaggle: https://kaggle.com/mahmoudmorsy
 
 ---
